@@ -73,3 +73,5 @@ Je možný rychlý přechod na konkrétní pár nebo rozhodčího.
 ## Vyzkoušet analýzu
 
 [https://analyza-vysledku-souteze-csts.github.io](https://analyza-vysledku-souteze-csts.github.io)
+
+Nebo přes krátký odkaz: [https://cutt.ly/as-csts](https://cutt.ly/as-csts)
