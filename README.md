@@ -69,7 +69,7 @@ Anebo použít hash `#` a přidat URL za něj
 Uživatelské rozhraní poskytuje sadu tabulek pro každé kolo soutěže. Existují tedy tyto režimy zobrazení:
 
 * **podle rozhodčího** - každá tabulka zobrazuje hodnocení jednoho rozhodčího pro všechny páry.
-* **podle soutěžního páru, jednotlivce nebo týmu, tj. účastníků** - každá tabulka zobrazuje hodnocení jednoho páru všemi rozhodčími.
+* **podle soutěžního páru, jednotlivce nebo týmu, tj. účastníků** - každá tabulka zobrazuje hodnocení jednoho účastníka všemi rozhodčími.
 * **podle tanců** - každá tabulka zobrazuje hodnocení v každém tanci.
 * **výsledků účastníků** - každá tabulka zobrazuje hodnocení jednoho páru všemi rozhodčími, podobně jako na výsledkových lístcích i na webu [csts.cz](https://www.csts.cz).
 * **výsledková listina** - jedna tabulka, která zobrazuje umístění ve všech kolech a také body.
