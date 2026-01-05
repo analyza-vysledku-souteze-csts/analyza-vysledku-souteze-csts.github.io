@@ -28,7 +28,23 @@ Z této stránky se provádějí následující volání na web [csts.cz](https:
 
 ## Funkční možnosti
 
-Pro zahájení analýzy je třeba vložit do horního pole této stránky URL výsledků soutěže z webu [csts.cz](https://www.csts.cz) a stisknout tlačítko **"Načíst"** nebo klávesu **Enter**.
+Pro zahájení analýzy budeme potřebovat odkaz na výsledek soutěže z webu [csts.cz](https://www.csts.cz). 
+
+Existuje několik možností, jak začít: můžete použít textové pole a tlačítko **"Načíst"** nebo klávesu **Enter**, můžete použít tlačítko **"Vložit"** pro vložení zkopírovaného odkazu ze schránky, 
+
+| ![Start screen](images/start_screen.png) |
+|-|
+
+nebo také můžete využít variantu s krátkým odkazem (v zásadě lze použít i dlouhý, původní). V tom případě je třeba před odkaz na soutěž na webu ČSTS napsat `tiny.cc/as-csts#`
+
+| ![Using short link and hash](images/browser_address_string_hash.png) |
+|-|
+
+a stisknout **Enter**:
+
+| ![Short link with hash redirected](images/browser_address_string_redirect.png) |
+|-|
+
 
 **Příklad:**
 `https://www.csts.cz/dancesport/vysledky_soutezi/event/XXX/competition/YYYYY`
@@ -38,10 +54,25 @@ Existuje také možnost předat identifikátory soutěže přímo v URL pomocí 
 **Úplný příklad:**
 `https://analyza-vysledku-souteze-csts.github.io?eventId=XXX&competitionId=YYYYY`
 
-Uživatelské rozhraní poskytuje sadu tabulek pro každé kolo soutěže. Existují tedy dva režimy zobrazení:
+Také lze předat celou URL adresu soutěže pomocí parametru **url** nebo **u**
 
-* **podle rozhodčího** - každá tabulka zobrazuje hodnocení jednoho rozhodčího pro všechny páry (podobně jako na výsledkových lístcích i na webu [csts.cz](https://www.csts.cz)).
-* **podle soutěžního páru** - každá tabulka zobrazuje hodnocení jednoho páru všemi rozhodčími.
+**Příklad:**
+`https://analyza-vysledku-souteze-csts.github.io?u=https://www.csts.cz/dancesport/vysledky_soutezi/event/XXX/competition/YYYYY`
+
+Anebo použít hash a přidat URL za něj
+
+**Příklad:**
+`https://analyza-vysledku-souteze-csts.github.io#https://www.csts.cz/dancesport/vysledky_soutezi/event/XXX/competition/YYYYY`
+
+---
+
+Uživatelské rozhraní poskytuje sadu tabulek pro každé kolo soutěže. Existují tedy tyto režimy zobrazení:
+
+* **podle rozhodčího** - každá tabulka zobrazuje hodnocení jednoho rozhodčího pro všechny páry.
+* **podle soutěžního páru, jednotlivce nebo týmu, tj. účastníků** - každá tabulka zobrazuje hodnocení jednoho páru všemi rozhodčími.
+* **podle tanců** - každá tabulka zobrazuje hodnocení v každém tanci.
+* **výsledků účastníků** - každá tabulka zobrazuje hodnocení jednoho páru všemi rozhodčími, podobně jako na výsledkových lístcích i na webu [csts.cz](https://www.csts.cz).
+* **výsledková listina** - jedna tabulka, která zobrazuje umístění ve všech kolech a také body.
 
 Pro finálové kolo se v tabulkách zvýrazňuje rozdíl mezi hodnocením rozhodčího a finálním celkovým hodnocením páru v daném tanci.
 
@@ -74,4 +105,4 @@ Je možný rychlý přechod na konkrétní pár nebo rozhodčího.
 
 [https://analyza-vysledku-souteze-csts.github.io](https://analyza-vysledku-souteze-csts.github.io)
 
-Nebo přes krátký odkaz: [https://cutt.ly/as-csts](https://cutt.ly/as-csts)
+Nebo přes krátký odkaz: [https://tiny.cc/as-csts](https://tiny.cc/as-csts)
