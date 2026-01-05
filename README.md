@@ -59,7 +59,7 @@ Také lze předat celou URL adresu soutěže pomocí parametru **url** nebo **u*
 **Příklad:**
 `https://analyza-vysledku-souteze-csts.github.io?u=https://www.csts.cz/dancesport/vysledky_soutezi/event/XXX/competition/YYYYY`
 
-Anebo použít hash a přidat URL za něj
+Anebo použít hash `#` a přidat URL za něj
 
 **Příklad:**
 `https://analyza-vysledku-souteze-csts.github.io#https://www.csts.cz/dancesport/vysledky_soutezi/event/XXX/competition/YYYYY`
