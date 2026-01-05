@@ -76,11 +76,17 @@ Uživatelské rozhraní poskytuje sadu tabulek pro každé kolo soutěže. Exist
 
 Pro finálové kolo se v tabulkách zvýrazňuje rozdíl mezi hodnocením rozhodčího a finálním celkovým hodnocením páru v daném tanci.
 
-Pro kvalifikační kolo se zvýrazňují křížky a také páry, které postoupily do dalšího kola. Zvýrazňuje se také rozdíl mezi celkovým hodnocením páru a jeho hodnocením v daném kole.
+Pro kvalifikační kolo se zvýrazňují křížky a také páry, které postoupily do dalšího kola. 
+
+Zvýrazňuje se také rozdíl mezi celkovým hodnocením páru a jeho hodnocením v daném kole.
 
 U všech kol jsou barevně zvýrazněni rozhodčí a páry, kteří patří do stejného klubu.
 
 Je možný rychlý přechod na konkrétní pár nebo rozhodčího.
+
+Načtené soutěže se zobrazují v seznamu **"Načtené soutěže"**.
+
+Pokud byla soutěž již načtena, při jejím opětovném zobrazení přes **seznam** soutěží, použitím tlačítek **"Načíst"** nebo **"Vložit"**, případně přidáním do hash `#` v URL, se použijí údaje z paměti bez nových volání na web [csts.cz](csts.cz).
 
 ---
 
@@ -105,4 +111,4 @@ Je možný rychlý přechod na konkrétní pár nebo rozhodčího.
 
 [https://analyza-vysledku-souteze-csts.github.io](https://analyza-vysledku-souteze-csts.github.io)
 
-Nebo přes krátký odkaz: [https://tiny.cc/as-csts](https://tiny.cc/as-csts)
+Nebo přes krátký odkaz: [https://tiny.cc/as-csts#](https://tiny.cc/as-csts#)
