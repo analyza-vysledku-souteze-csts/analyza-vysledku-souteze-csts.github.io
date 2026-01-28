@@ -1,0 +1,157 @@
+[
+    {
+      "eventId": 1678,
+      "dateFrom": "2026-02-28",
+      "dateTo": "2026-02-28",
+      "eventTitle": "Mistrovství ČR 2026 v taneční sportu - latinskoamerické tance",
+      "location": "Praha",
+      "organizer": "ČSTS",
+      "promoter": "Dance Sport Praha z.s.",
+      "competitions": [
+        {
+          "competitionId": 36471,
+          "date": "2026-02-28",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Latin",
+          "age": "Juvenile II",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36472,
+          "date": "2026-02-28",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36473,
+          "date": "2026-02-28",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36474,
+          "date": "2026-02-28",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36475,
+          "date": "2026-02-28",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Latin",
+          "age": "Under 21",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36476,
+          "date": "2026-02-28",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        }
+      ]
+    }
+  ]

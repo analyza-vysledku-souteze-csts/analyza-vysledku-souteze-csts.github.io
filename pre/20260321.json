@@ -1,0 +1,217 @@
+[
+    {
+      "eventId": 1714,
+      "dateFrom": "2026-03-21",
+      "dateTo": "2026-03-21",
+      "eventTitle": "Mistrovství České republiky 2026 v tanečním sportu - 10 tanců",
+      "location": "Zlín",
+      "organizer": "Taneční klub FORTUNA Zlín z.s.",
+      "promoter": "Taneční klub FORTUNA Zlín z.s.",
+      "competitions": [
+        {
+          "competitionId": 36847,
+          "date": "2026-03-21",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "TenDances",
+          "age": "Juvenile II",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep",
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36848,
+          "date": "2026-03-21",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "TenDances",
+          "age": "Junior I",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep",
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36849,
+          "date": "2026-03-21",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "TenDances",
+          "age": "Junior II",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep",
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36850,
+          "date": "2026-03-21",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "TenDances",
+          "age": "Youth",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep",
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36851,
+          "date": "2026-03-21",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "TenDances",
+          "age": "Under 21",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep",
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 36852,
+          "date": "2026-03-21",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "TenDances",
+          "age": "Adult",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep",
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        }
+      ]
+    }
+  ]

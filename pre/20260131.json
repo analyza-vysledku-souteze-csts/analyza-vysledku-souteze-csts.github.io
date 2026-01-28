@@ -1,0 +1,157 @@
+[
+    {
+      "eventId": 1640,
+      "dateFrom": "2026-01-31",
+      "dateTo": "2026-01-31",
+      "eventTitle": "Mistrovství České republiky 2026 v tanečním sportu - standardní tance",
+      "location": "Otrokovice",
+      "organizer": "ČSTS",
+      "promoter": "Taneční klub GRADACE Kroměříž, z.s.",
+      "competitions": [
+        {
+          "competitionId": 35241,
+          "date": "2026-01-31",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Standard",
+          "age": "Juvenile II",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 35234,
+          "date": "2026-01-31",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Standard",
+          "age": "Junior I",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 35235,
+          "date": "2026-01-31",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 35244,
+          "date": "2026-01-31",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 35236,
+          "date": "2026-01-31",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Standard",
+          "age": "Under 21",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 35245,
+          "date": "2026-01-31",
+          "competitors": "Couple",
+          "class": "Open",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Championship",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        }
+      ]
+    }
+  ]

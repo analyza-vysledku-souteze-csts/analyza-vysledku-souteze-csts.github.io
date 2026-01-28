@@ -1,0 +1,2020 @@
+[
+    {
+      "eventId": 1512,
+      "dateFrom": "2026-04-25",
+      "dateTo": "2026-04-25",
+      "eventTitle": "DanceArt OPEN - 3. ročník",
+      "location": "Pelhřimov",
+      "organizer": "Český svaz tanečního sportu",
+      "promoter": "DanceArt PELHŘIMOV",
+      "competitions": [
+        {
+          "competitionId": 31573,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard+Latin",
+          "age": "Juvenile I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Quickstep",
+            "Chachacha",
+            "Jive",
+            "Polka"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31574,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard+Latin",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Quickstep",
+            "Chachacha",
+            "Jive",
+            "Polka"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31577,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31575,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive",
+            "Polka"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31578,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31579,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31580,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31581,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31608,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31609,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31582,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31583,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31584,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31585,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31611,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31586,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31587,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31612,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31613,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "B",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31588,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31590,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31589,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31591,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31592,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31593,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31594,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31595,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31596,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31597,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31598,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31599,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31600,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31601,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31602,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31572,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31604,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "E",
+          "toClass": "E",
+          "discipline": "Latin",
+          "age": "Juvenile",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Chachacha",
+            "Jive",
+            "Polka"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31606,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "Latin",
+          "age": "Juvenile",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive",
+            "Polka"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31607,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "C",
+          "toClass": "C",
+          "discipline": "Latin",
+          "age": "Juvenile",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31615,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior I",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Samba"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31616,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior I",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Chachacha"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31617,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior I",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Rumba"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31618,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior I",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Paso Doble"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31619,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior I",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31610,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "B",
+          "toClass": "B",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31620,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior II",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Samba"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31621,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior II",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Chachacha"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31622,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior II",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Rumba"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31623,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior II",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Paso Doble"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31624,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior II",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31625,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz"
+          ],
+          "danceDisciplines": [
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31626,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Tango"
+          ],
+          "danceDisciplines": [
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31627,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Viennese Waltz"
+          ],
+          "danceDisciplines": [
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31628,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Slowfox"
+          ],
+          "danceDisciplines": [
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31629,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Junior",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 31603,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Youth",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31630,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Youth",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Samba"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31631,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Youth",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Chachacha"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31632,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Youth",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Rumba"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 31633,
+          "date": "2026-04-25",
+          "competitors": "SoloDancer",
+          "class": "D",
+          "toClass": "D",
+          "discipline": "SingleDance",
+          "age": "Youth",
+          "grade": "Cup",
+          "series": "DanceSport",
+          "dances": [
+            "Paso Doble"
+          ],
+          "danceDisciplines": [
+            "Latin"
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": 1544,
+      "dateFrom": "2026-04-25",
+      "dateTo": "2026-04-25",
+      "eventTitle": "O perníkovou pantofli 2026 - 57. ročník",
+      "location": "Pardubice",
+      "organizer": "ČSTS",
+      "promoter": "CTS PERFECT Pardubice, z.s.",
+      "competitions": [
+        {
+          "competitionId": 37350,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard+Latin",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Quickstep",
+            "Chachacha",
+            "Jive",
+            "Polka"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37352,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37354,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive",
+            "Polka"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37356,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37355,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Juvenile II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37358,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37357,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37360,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37359,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37362,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37361,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Junior I",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37364,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37365,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37367,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37366,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37369,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37368,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37371,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Standard",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37370,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Latin",
+          "age": "Junior II",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37373,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37372,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37375,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37374,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37377,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37376,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37379,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Standard",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37378,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Latin",
+          "age": "Youth",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37381,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37380,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "E",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37383,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37382,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "D",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37385,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37384,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "C",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        },
+        {
+          "competitionId": 37387,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Standard",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Waltz",
+            "Tango",
+            "Viennese Waltz",
+            "Slowfox",
+            "Quickstep"
+          ],
+          "danceDisciplines": [
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard",
+            "Standard"
+          ]
+        },
+        {
+          "competitionId": 37386,
+          "date": "2026-04-25",
+          "competitors": "Couple",
+          "class": "B",
+          "discipline": "Latin",
+          "age": "Adult",
+          "grade": "Ranking",
+          "series": "DanceSport",
+          "dances": [
+            "Samba",
+            "Chachacha",
+            "Rumba",
+            "Paso Doble",
+            "Jive"
+          ],
+          "danceDisciplines": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        }
+      ]
+    }
+  ]
