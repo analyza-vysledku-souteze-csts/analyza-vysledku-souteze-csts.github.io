@@ -213,5 +213,5165 @@
           ]
         }
       ]
+    },
+	{
+        "eventId": 1696,
+        "dateFrom": "2026-03-21",
+        "dateTo": "2026-03-21",
+        "eventTitle": "O perníkové srdce - 31. ročník - L'Oreál Paris Český taneční pohár",
+        "location": "Pardubice",
+        "organizer": "ČSTS",
+        "promoter": "JN DANCE PARDUBICE",
+        "competitions": [
+            {
+                "competitionId": 39228,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:40",
+                "registered": 5,
+                "excused": 1,
+                "completedAt": "2026-03-21T08:26:23.283+00:00"
+            },
+            {
+                "competitionId": 38746,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:46",
+                "registered": 5,
+                "excused": 1,
+                "completedAt": "2026-03-21T08:26:25.33+00:00"
+            },
+            {
+                "competitionId": 38738,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:41",
+                "registered": 12,
+                "excused": 0,
+                "completedAt": "2026-03-21T08:28:26.707+00:00"
+            },
+            {
+                "competitionId": 39229,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:42",
+                "registered": 6,
+                "excused": 1,
+                "completedAt": "2026-03-21T08:28:27.711+00:00"
+            },
+            {
+                "competitionId": 38744,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:43",
+                "registered": 10,
+                "excused": 0,
+                "completedAt": "2026-03-21T08:30:23.963+00:00"
+            },
+            {
+                "competitionId": 39227,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:44",
+                "registered": 6,
+                "excused": 1,
+                "completedAt": "2026-03-21T08:30:25.915+00:00"
+            },
+            {
+                "competitionId": 38742,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:45",
+                "registered": 11,
+                "excused": 0,
+                "completedAt": "2026-03-21T08:32:39.683+00:00"
+            },
+            {
+                "competitionId": 38753,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:47",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-21T08:36:41.316+00:00"
+            },
+            {
+                "competitionId": 38752,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:48",
+                "registered": 4,
+                "excused": 2,
+                "completedAt": "2026-03-21T08:38:30.962+00:00"
+            },
+            {
+                "competitionId": 38755,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:49",
+                "registered": 4,
+                "excused": 2,
+                "completedAt": "2026-03-21T08:41:02.495+00:00"
+            },
+            {
+                "competitionId": 38750,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:10",
+                "registered": 9,
+                "excused": 1,
+                "completedAt": "2026-03-21T08:53:19.278+00:00"
+            },
+            {
+                "competitionId": 38751,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:11",
+                "registered": 11,
+                "excused": 0,
+                "completedAt": "2026-03-21T08:55:56.615+00:00"
+            },
+            {
+                "competitionId": 38739,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Under 8",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:15",
+                "registered": 5,
+                "excused": 1,
+                "completedAt": "2026-03-21T08:55:57.903+00:00"
+            },
+            {
+                "competitionId": 38745,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:12",
+                "registered": 11,
+                "excused": 0,
+                "completedAt": "2026-03-21T08:58:29.705+00:00"
+            },
+            {
+                "competitionId": 38740,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Under 8",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:16",
+                "registered": 5,
+                "excused": 0,
+                "completedAt": "2026-03-21T08:58:32.263+00:00"
+            },
+            {
+                "competitionId": 38741,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Under 8",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:17",
+                "registered": 5,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:00:19.67+00:00"
+            },
+            {
+                "competitionId": 38743,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:13",
+                "registered": 10,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:00:20.785+00:00"
+            },
+            {
+                "competitionId": 39239,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:21",
+                "registered": 11,
+                "excused": 4,
+                "completedAt": "2026-03-21T09:23:17.599+00:00"
+            },
+            {
+                "competitionId": 39238,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:22",
+                "registered": 11,
+                "excused": 4,
+                "completedAt": "2026-03-21T09:25:11.312+00:00"
+            },
+            {
+                "competitionId": 39237,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:23",
+                "registered": 11,
+                "excused": 4,
+                "completedAt": "2026-03-21T09:27:10.23+00:00"
+            },
+            {
+                "competitionId": 38724,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "Standard+Latin",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "09:40",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-21T09:27:11.927+00:00"
+            },
+            {
+                "competitionId": 38712,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "discipline": "Standard+Latin",
+                "age": "Juvenile I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Quickstep",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "09:30",
+                "registered": 7,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:37:54.631+00:00"
+            },
+            {
+                "competitionId": 38735,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:01",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:43:01.466+00:00"
+            },
+            {
+                "competitionId": 38723,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:00",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:44:39.914+00:00"
+            },
+            {
+                "competitionId": 38736,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:02",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:44:41.747+00:00"
+            },
+            {
+                "competitionId": 38737,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:03",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:46:39.571+00:00"
+            },
+            {
+                "competitionId": 39183,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:41",
+                "registered": 4,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:49:31.695+00:00"
+            },
+            {
+                "competitionId": 38725,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:42",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-21T09:49:33.092+00:00"
+            },
+            {
+                "competitionId": 38726,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:44",
+                "registered": 2,
+                "excused": 1,
+                "completedAt": "2026-03-21T09:51:13.871+00:00"
+            },
+            {
+                "competitionId": 39182,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:43",
+                "registered": 4,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:51:19.333+00:00"
+            },
+            {
+                "competitionId": 38727,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:46",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-21T09:53:19.034+00:00"
+            },
+            {
+                "competitionId": 38733,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:45",
+                "registered": 5,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:53:28.804+00:00"
+            },
+            {
+                "competitionId": 38728,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:48",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-21T09:55:13.958+00:00"
+            },
+            {
+                "competitionId": 38734,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:47",
+                "registered": 5,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:55:23.883+00:00"
+            },
+            {
+                "competitionId": 38732,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:49",
+                "registered": 5,
+                "excused": 0,
+                "completedAt": "2026-03-21T09:57:47.106+00:00"
+            },
+            {
+                "competitionId": 38729,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:50",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-21T09:58:10.499+00:00"
+            },
+            {
+                "competitionId": 38730,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "Standard+Latin",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "09:56",
+                "registered": 2,
+                "excused": 3,
+                "completedAt": "2026-03-21T10:17:36.673+00:00"
+            },
+            {
+                "competitionId": 38720,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "class": "E",
+                "discipline": "Standard+Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Quickstep",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "09:55",
+                "registered": 4,
+                "excused": 0,
+                "completedAt": "2026-03-21T10:17:46.423+00:00"
+            },
+            {
+                "competitionId": 38765,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:41",
+                "registered": 10,
+                "excused": 0,
+                "completedAt": "2026-03-21T10:21:01.127+00:00"
+            },
+            {
+                "competitionId": 38766,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:42",
+                "registered": 10,
+                "excused": 0,
+                "completedAt": "2026-03-21T10:23:51.521+00:00"
+            },
+            {
+                "competitionId": 38767,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:43",
+                "registered": 12,
+                "excused": 0,
+                "completedAt": "2026-03-21T10:27:07.549+00:00"
+            },
+            {
+                "competitionId": 39223,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "discipline": "Latin",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "10:10",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T10:27:58.506+00:00"
+            },
+            {
+                "competitionId": 38768,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:44",
+                "registered": 7,
+                "excused": 0,
+                "completedAt": "2026-03-21T10:28:10.44+00:00"
+            },
+            {
+                "competitionId": 38764,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:30",
+                "registered": 22,
+                "excused": 3,
+                "completedAt": "2026-03-21T11:22:39.93+00:00"
+            },
+            {
+                "competitionId": 38772,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:31",
+                "registered": 21,
+                "excused": 2,
+                "completedAt": "2026-03-21T11:25:18.903+00:00"
+            },
+            {
+                "competitionId": 38771,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:32",
+                "registered": 20,
+                "excused": 4,
+                "completedAt": "2026-03-21T11:27:03.128+00:00"
+            },
+            {
+                "competitionId": 38769,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:33",
+                "registered": 20,
+                "excused": 3,
+                "completedAt": "2026-03-21T11:29:27.988+00:00"
+            },
+            {
+                "competitionId": 38770,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "10:34",
+                "registered": 14,
+                "excused": 3,
+                "completedAt": "2026-03-21T11:34:22.858+00:00"
+            },
+            {
+                "competitionId": 39233,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Salsa",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Salsa"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "11:31",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T11:55:01.539+00:00"
+            },
+            {
+                "competitionId": 39234,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Salsa",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Salsa"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:38",
+                "registered": 10,
+                "excused": 0,
+                "completedAt": "2026-03-21T11:55:05.884+00:00"
+            },
+            {
+                "competitionId": 39231,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Bachata",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Bachata"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "11:32",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T11:56:45.177+00:00"
+            },
+            {
+                "competitionId": 39230,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Bachata",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Bachata"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:36",
+                "registered": 10,
+                "excused": 0,
+                "completedAt": "2026-03-21T11:56:46.09+00:00"
+            },
+            {
+                "competitionId": 39235,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Merengue",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Merengue"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:37",
+                "registered": 10,
+                "excused": 0,
+                "completedAt": "2026-03-21T11:58:43.518+00:00"
+            },
+            {
+                "competitionId": 39232,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Merengue",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Merengue"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "11:33",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T11:59:20.04+00:00"
+            },
+            {
+                "competitionId": 38698,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Salsa",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Salsa"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:40",
+                "registered": 9,
+                "excused": 3,
+                "completedAt": "2026-03-21T12:33:23.823+00:00"
+            },
+            {
+                "competitionId": 38697,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Salsa",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Salsa"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "12:00",
+                "registered": 9,
+                "excused": 0,
+                "completedAt": "2026-03-21T12:33:28.704+00:00"
+            },
+            {
+                "competitionId": 38700,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Bachata",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Bachata"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:41",
+                "registered": 9,
+                "excused": 3,
+                "completedAt": "2026-03-21T12:35:02.63+00:00"
+            },
+            {
+                "competitionId": 38695,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Bachata",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Bachata"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "12:00",
+                "registered": 9,
+                "excused": 0,
+                "completedAt": "2026-03-21T12:35:04.429+00:00"
+            },
+            {
+                "competitionId": 38699,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Merengue",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Merengue"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:00",
+                "registered": 9,
+                "excused": 3,
+                "completedAt": "2026-03-21T12:37:11.713+00:00"
+            },
+            {
+                "competitionId": 38696,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Merengue",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Merengue"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "12:00",
+                "registered": 9,
+                "excused": 0,
+                "completedAt": "2026-03-21T12:37:21.149+00:00"
+            },
+            {
+                "competitionId": 38708,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Juvenile I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "11:45",
+                "registered": 7,
+                "excused": 1,
+                "completedAt": "2026-03-21T13:04:37.832+00:00"
+            },
+            {
+                "competitionId": 38711,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "discipline": "Standard+Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Quickstep",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "12:00",
+                "registered": 15,
+                "excused": 0,
+                "completedAt": "2026-03-21T13:15:42.067+00:00"
+            },
+            {
+                "competitionId": 38706,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Caribbean",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Salsa",
+                    "Merengue",
+                    "Bachata"
+                ],
+                "danceDisciplines": [
+                    "Other",
+                    "Other",
+                    "Other"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "12:00",
+                "registered": 9,
+                "excused": 0,
+                "completedAt": "2026-03-21T13:21:25.888+00:00"
+            },
+            {
+                "competitionId": 39236,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "Open",
+                "discipline": "Caribbean",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Salsa",
+                    "Merengue",
+                    "Bachata"
+                ],
+                "danceDisciplines": [
+                    "Other",
+                    "Other",
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "13:00",
+                "registered": 11,
+                "excused": 0,
+                "completedAt": "2026-03-21T13:24:51.514+00:00"
+            },
+            {
+                "competitionId": 37626,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:00",
+                "registered": 9,
+                "excused": 1,
+                "completedAt": "2026-03-21T14:10:08.167+00:00"
+            },
+            {
+                "competitionId": 37629,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:00",
+                "registered": 21,
+                "excused": 4,
+                "completedAt": "2026-03-21T14:18:45.254+00:00"
+            },
+            {
+                "competitionId": 38762,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "class": "Open",
+                "discipline": "Salsa",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Salsa"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "13:01",
+                "registered": 2,
+                "excused": 1,
+                "completedAt": "2026-03-21T14:23:07.194+00:00"
+            },
+            {
+                "competitionId": 38760,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "class": "Open",
+                "discipline": "Bachata",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Bachata"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "13:04",
+                "registered": 2,
+                "excused": 1,
+                "completedAt": "2026-03-21T14:23:08.979+00:00"
+            },
+            {
+                "competitionId": 38761,
+                "date": "2026-03-21",
+                "competitors": "DuoF",
+                "class": "Open",
+                "discipline": "Merengue",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "Caribbean",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Merengue"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "13:03",
+                "registered": 2,
+                "excused": 1,
+                "completedAt": "2026-03-21T14:23:55.909+00:00"
+            },
+            {
+                "competitionId": 37628,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "14:00",
+                "registered": 10,
+                "excused": 1,
+                "completedAt": "2026-03-21T15:02:43.165+00:00"
+            },
+            {
+                "competitionId": 38686,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Standard",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "13:30",
+                "registered": 4,
+                "excused": 5,
+                "completedAt": "2026-03-21T15:08:58.058+00:00"
+            },
+            {
+                "competitionId": 38709,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "12:30",
+                "registered": 19,
+                "excused": 3,
+                "completedAt": "2026-03-21T15:18:41.446+00:00"
+            },
+            {
+                "competitionId": 39185,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "16:00",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-21T15:32:52.74+00:00"
+            },
+            {
+                "competitionId": 39187,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "16:00",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-21T15:34:30.996+00:00"
+            },
+            {
+                "competitionId": 37625,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "15:00",
+                "registered": 7,
+                "excused": 0,
+                "completedAt": "2026-03-21T15:44:00.747+00:00"
+            },
+            {
+                "competitionId": 37627,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "14:00",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-21T15:49:16.474+00:00"
+            },
+            {
+                "competitionId": 39226,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "14:00",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T16:03:47.973+00:00"
+            },
+            {
+                "competitionId": 39242,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "16:00",
+                "registered": 15,
+                "excused": 5,
+                "completedAt": "2026-03-21T16:06:31.964+00:00"
+            },
+            {
+                "competitionId": 39247,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "16:00",
+                "registered": 7,
+                "excused": 2,
+                "completedAt": "2026-03-21T16:19:11.017+00:00"
+            },
+            {
+                "competitionId": 39246,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "D",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "16:00",
+                "registered": 14,
+                "excused": 1,
+                "completedAt": "2026-03-21T16:20:08.707+00:00"
+            },
+            {
+                "competitionId": 38690,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "15:30",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-21T16:27:17.596+00:00"
+            },
+            {
+                "competitionId": 38689,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "15:30",
+                "registered": 4,
+                "excused": 1,
+                "completedAt": "2026-03-21T16:49:22.247+00:00"
+            },
+            {
+                "competitionId": 38710,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "15:00",
+                "registered": 20,
+                "excused": 5,
+                "completedAt": "2026-03-21T17:09:33.586+00:00"
+            },
+            {
+                "competitionId": 38714,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "discipline": "Standard",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:00",
+                "registered": 7,
+                "excused": 2,
+                "completedAt": "2026-03-21T17:16:12.725+00:00"
+            },
+            {
+                "competitionId": 38707,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Juvenile I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "16:00",
+                "registered": 6,
+                "excused": 2,
+                "completedAt": "2026-03-21T17:44:38.658+00:00"
+            },
+            {
+                "competitionId": 38691,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "16:15",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-21T17:57:50.482+00:00"
+            },
+            {
+                "competitionId": 38716,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:00",
+                "registered": 13,
+                "excused": 4,
+                "completedAt": "2026-03-21T18:06:11.093+00:00"
+            },
+            {
+                "competitionId": 38692,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Standard+Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Quickstep",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "16:30",
+                "registered": 4,
+                "excused": 3,
+                "completedAt": "2026-03-21T18:15:41.355+00:00"
+            },
+            {
+                "competitionId": 38715,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "discipline": "Standard",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:00",
+                "registered": 4,
+                "excused": 0,
+                "completedAt": "2026-03-21T18:21:22.435+00:00"
+            },
+            {
+                "competitionId": 38687,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:15",
+                "registered": 6,
+                "excused": 2,
+                "completedAt": "2026-03-21T18:49:31.209+00:00"
+            },
+            {
+                "competitionId": 38713,
+                "date": "2026-03-21",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:00",
+                "registered": 6,
+                "excused": 1,
+                "completedAt": "2026-03-21T18:57:02.759+00:00"
+            },
+            {
+                "competitionId": 38688,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:15",
+                "registered": 4,
+                "excused": 1,
+                "completedAt": "2026-03-21T19:08:00.167+00:00"
+            },
+            {
+                "competitionId": 38684,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:30",
+                "registered": 4,
+                "excused": 1,
+                "completedAt": "2026-03-21T19:15:40.857+00:00"
+            },
+            {
+                "competitionId": 38685,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:30",
+                "registered": 5,
+                "excused": 3,
+                "completedAt": "2026-03-21T19:23:30.768+00:00"
+            },
+            {
+                "competitionId": 38679,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "17:00",
+                "registered": 5,
+                "excused": 1,
+                "completedAt": "2026-03-21T19:30:29.295+00:00"
+            },
+            {
+                "competitionId": 38683,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "18:00",
+                "registered": 4,
+                "excused": 1,
+                "completedAt": "2026-03-21T19:48:06.942+00:00"
+            },
+            {
+                "competitionId": 38682,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Standard",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "18:00",
+                "registered": 4,
+                "excused": 1,
+                "completedAt": "2026-03-21T19:51:51.637+00:00"
+            },
+            {
+                "competitionId": 36480,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "17:00",
+                "registered": 5,
+                "excused": 2,
+                "completedAt": "2026-03-21T20:12:23.506+00:00"
+            },
+            {
+                "competitionId": 38675,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "17:00",
+                "registered": 19,
+                "excused": 2,
+                "completedAt": "2026-03-21T20:38:52.587+00:00"
+            },
+            {
+                "competitionId": 38680,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "17:00",
+                "registered": 8,
+                "excused": 1,
+                "completedAt": "2026-03-21T20:46:57.086+00:00"
+            },
+            {
+                "competitionId": 38676,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Standard",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "18:30",
+                "registered": 4,
+                "excused": 1,
+                "completedAt": "2026-03-21T20:53:12.214+00:00"
+            },
+            {
+                "competitionId": 38677,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "18:30",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-21T21:00:57.931+00:00"
+            },
+            {
+                "competitionId": 38681,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "D",
+                "discipline": "Standard",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "19:00",
+                "registered": 8,
+                "excused": 2,
+                "completedAt": "2026-03-21T21:40:26.084+00:00"
+            },
+            {
+                "competitionId": 36481,
+                "date": "2026-03-21",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Standard",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "19:00",
+                "registered": 17,
+                "excused": 0,
+                "completedAt": "2026-03-21T21:47:06.701+00:00"
+            }
+        ]
+    },
+	{
+        "eventId": 1682,
+        "dateFrom": "2026-03-22",
+        "dateTo": "2026-03-22",
+        "eventTitle": "O perníkové srdce - 31. ročník - L'Oreál Paris Český taneční pohár - I. Extra pohár",
+        "location": "Pardubice",
+        "organizer": "ČSTS",
+        "promoter": "JN DANCE PARDUBICE",
+        "competitions": [
+            {
+                "competitionId": 39215,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "C",
+                "discipline": "Standard",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Slowfox",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "07:50",
+                "registered": 3,
+                "excused": 1,
+                "completedAt": "2026-03-22T07:11:01.082+00:00"
+            },
+            {
+                "competitionId": 39210,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Standard",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "07:55",
+                "registered": 2,
+                "excused": 5,
+                "completedAt": "2026-03-22T07:17:09.684+00:00"
+            },
+            {
+                "competitionId": 38651,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "C",
+                "discipline": "Standard",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Slowfox",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "08:00",
+                "registered": 4,
+                "excused": 3,
+                "completedAt": "2026-03-22T07:26:25.692+00:00"
+            },
+            {
+                "competitionId": 38654,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "B",
+                "discipline": "Standard",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Slowfox",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "08:05",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-22T07:36:03.923+00:00"
+            },
+            {
+                "competitionId": 39201,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Standard+Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Quickstep",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "08:10",
+                "registered": 4,
+                "excused": 4,
+                "completedAt": "2026-03-22T07:48:32.998+00:00"
+            },
+            {
+                "competitionId": 39205,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:20",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-22T08:05:37.532+00:00"
+            },
+            {
+                "competitionId": 39203,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:21",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-22T08:11:50.819+00:00"
+            },
+            {
+                "competitionId": 39204,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:22",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-22T08:16:34.868+00:00"
+            },
+            {
+                "competitionId": 36059,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "08:15",
+                "registered": 7,
+                "excused": 3,
+                "completedAt": "2026-03-22T08:16:46.766+00:00"
+            },
+            {
+                "competitionId": 39200,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:23",
+                "registered": 3,
+                "excused": 2,
+                "completedAt": "2026-03-22T08:19:34.104+00:00"
+            },
+            {
+                "competitionId": 38662,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "Latin",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "08:45",
+                "registered": 3,
+                "excused": 4,
+                "completedAt": "2026-03-22T08:27:29.548+00:00"
+            },
+            {
+                "competitionId": 39219,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "08:40",
+                "registered": 3,
+                "excused": 3,
+                "completedAt": "2026-03-22T08:27:42.883+00:00"
+            },
+            {
+                "competitionId": 38657,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:56",
+                "registered": 3,
+                "excused": 4,
+                "completedAt": "2026-03-22T08:36:34.421+00:00"
+            },
+            {
+                "competitionId": 38658,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:57",
+                "registered": 3,
+                "excused": 4,
+                "completedAt": "2026-03-22T08:41:47.797+00:00"
+            },
+            {
+                "competitionId": 37739,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "08:55",
+                "registered": 5,
+                "excused": 1,
+                "completedAt": "2026-03-22T08:42:03.377+00:00"
+            },
+            {
+                "competitionId": 38655,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "08:58",
+                "registered": 3,
+                "excused": 4,
+                "completedAt": "2026-03-22T08:43:36.926+00:00"
+            },
+            {
+                "competitionId": 38803,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "09:10",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-22T08:55:48.39+00:00"
+            },
+            {
+                "competitionId": 39191,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:11",
+                "registered": 11,
+                "excused": 1,
+                "completedAt": "2026-03-22T09:08:20.827+00:00"
+            },
+            {
+                "competitionId": 38804,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Juvenile I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "09:30",
+                "registered": 4,
+                "excused": 1,
+                "completedAt": "2026-03-22T09:12:14.769+00:00"
+            },
+            {
+                "competitionId": 39193,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:12",
+                "registered": 10,
+                "excused": 1,
+                "completedAt": "2026-03-22T09:12:29.518+00:00"
+            },
+            {
+                "competitionId": 39190,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:13",
+                "registered": 10,
+                "excused": 1,
+                "completedAt": "2026-03-22T09:14:13.432+00:00"
+            },
+            {
+                "competitionId": 39206,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:01",
+                "registered": 3,
+                "excused": 1,
+                "completedAt": "2026-03-22T09:19:05.747+00:00"
+            },
+            {
+                "competitionId": 38656,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:02",
+                "registered": 3,
+                "excused": 4,
+                "completedAt": "2026-03-22T09:19:07.849+00:00"
+            },
+            {
+                "competitionId": 39207,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:03",
+                "registered": 3,
+                "excused": 1,
+                "completedAt": "2026-03-22T09:19:09.333+00:00"
+            },
+            {
+                "competitionId": 38673,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Under 8",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:32",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T09:24:39.297+00:00"
+            },
+            {
+                "competitionId": 37696,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "Latin",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "09:45",
+                "registered": 2,
+                "excused": 1,
+                "completedAt": "2026-03-22T09:26:04.624+00:00"
+            },
+            {
+                "competitionId": 38674,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Under 8",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:32",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T09:26:30.451+00:00"
+            },
+            {
+                "competitionId": 38670,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Under 8",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:33",
+                "registered": 4,
+                "excused": 0,
+                "completedAt": "2026-03-22T09:28:16.613+00:00"
+            },
+            {
+                "competitionId": 39214,
+                "date": "2026-03-22",
+                "competitors": "SoloF",
+                "class": "B",
+                "discipline": "Standard",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Slowfox",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:00",
+                "registered": 2,
+                "excused": 2,
+                "completedAt": "2026-03-22T09:43:27.696+00:00"
+            },
+            {
+                "competitionId": 38802,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "class": "E",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "09:50",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-22T10:01:08.635+00:00"
+            },
+            {
+                "competitionId": 38669,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "C",
+                "discipline": "Standard",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "10:05",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T10:13:54.464+00:00"
+            },
+            {
+                "competitionId": 39213,
+                "date": "2026-03-22",
+                "competitors": "SoloF",
+                "class": "B",
+                "discipline": "Standard",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Slowfox",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:10",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-22T10:23:27.33+00:00"
+            },
+            {
+                "competitionId": 39208,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:51",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-22T10:26:16.202+00:00"
+            },
+            {
+                "competitionId": 39209,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:52",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-22T10:28:00.776+00:00"
+            },
+            {
+                "competitionId": 39202,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "09:53",
+                "registered": 2,
+                "excused": 0,
+                "completedAt": "2026-03-22T10:29:35.391+00:00"
+            },
+            {
+                "competitionId": 38671,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "Latin",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "09:55",
+                "registered": 13,
+                "excused": 1,
+                "completedAt": "2026-03-22T10:30:09.351+00:00"
+            },
+            {
+                "competitionId": 37709,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:51",
+                "registered": 9,
+                "excused": 3,
+                "completedAt": "2026-03-22T11:12:12.677+00:00"
+            },
+            {
+                "competitionId": 37710,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Tango"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:52",
+                "registered": 8,
+                "excused": 3,
+                "completedAt": "2026-03-22T11:13:11.589+00:00"
+            },
+            {
+                "competitionId": 37711,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Viennese Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:53",
+                "registered": 9,
+                "excused": 3,
+                "completedAt": "2026-03-22T11:15:28.467+00:00"
+            },
+            {
+                "competitionId": 37712,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Slowfox"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:54",
+                "registered": 8,
+                "excused": 3,
+                "completedAt": "2026-03-22T11:17:38.623+00:00"
+            },
+            {
+                "competitionId": 37713,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "10:55",
+                "registered": 8,
+                "excused": 3,
+                "completedAt": "2026-03-22T11:19:35.734+00:00"
+            },
+            {
+                "competitionId": 37705,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:00",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T11:22:20.805+00:00"
+            },
+            {
+                "competitionId": 37701,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "10:45",
+                "registered": 14,
+                "excused": 5,
+                "completedAt": "2026-03-22T11:24:40.748+00:00"
+            },
+            {
+                "competitionId": 37706,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Tango"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:01",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T11:26:37.466+00:00"
+            },
+            {
+                "competitionId": 37704,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Tango"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "10:46",
+                "registered": 10,
+                "excused": 1,
+                "completedAt": "2026-03-22T11:29:19.323+00:00"
+            },
+            {
+                "competitionId": 37707,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Viennese Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:02",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T11:31:10.626+00:00"
+            },
+            {
+                "competitionId": 37703,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Viennese Waltz"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "10:47",
+                "registered": 12,
+                "excused": 2,
+                "completedAt": "2026-03-22T11:33:03.815+00:00"
+            },
+            {
+                "competitionId": 37714,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Slowfox"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:03",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T11:35:42.644+00:00"
+            },
+            {
+                "competitionId": 37702,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "10:48",
+                "registered": 13,
+                "excused": 4,
+                "completedAt": "2026-03-22T11:38:03.071+00:00"
+            },
+            {
+                "competitionId": 37700,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:04",
+                "registered": 6,
+                "excused": 0,
+                "completedAt": "2026-03-22T11:39:53.4+00:00"
+            },
+            {
+                "competitionId": 37695,
+                "date": "2026-03-22",
+                "competitors": "Group",
+                "discipline": "Latin",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "SyLAT"
+                ],
+                "danceDisciplines": [
+                    "Other"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:00",
+                "registered": 3,
+                "excused": 0,
+                "completedAt": "2026-03-22T11:58:14.852+00:00"
+            },
+            {
+                "competitionId": 39221,
+                "date": "2026-03-22",
+                "competitors": "SoloF",
+                "class": "B",
+                "discipline": "Standard",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Waltz",
+                    "Tango",
+                    "Viennese Waltz",
+                    "Slowfox",
+                    "Quickstep"
+                ],
+                "danceDisciplines": [
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard",
+                    "Standard"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "11:10",
+                "registered": 5,
+                "excused": 4,
+                "completedAt": "2026-03-22T12:16:32.43+00:00"
+            },
+            {
+                "competitionId": 38668,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "14:30",
+                "registered": 18,
+                "excused": 4
+            },
+            {
+                "competitionId": 36046,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Juvenile II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "12:15",
+                "registered": 23,
+                "excused": 2
+            },
+            {
+                "competitionId": 37699,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:45",
+                "registered": 13,
+                "excused": 5
+            },
+            {
+                "competitionId": 37740,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "14:00",
+                "registered": 24,
+                "excused": 5
+            },
+            {
+                "competitionId": 38649,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "18:25",
+                "registered": 4,
+                "excused": 0
+            },
+            {
+                "competitionId": 39220,
+                "date": "2026-03-22",
+                "competitors": "SoloF",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "18:30",
+                "registered": 10,
+                "excused": 1
+            },
+            {
+                "competitionId": 38666,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "19:00",
+                "registered": 10,
+                "excused": 8
+            },
+            {
+                "competitionId": 38650,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "18:35",
+                "registered": 4,
+                "excused": 0
+            },
+            {
+                "competitionId": 36045,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "B",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "14:45",
+                "registered": 17,
+                "excused": 10
+            },
+            {
+                "competitionId": 38664,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "D",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "19:15",
+                "registered": 7,
+                "excused": 0
+            },
+            {
+                "competitionId": 38667,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "19:30",
+                "registered": 4,
+                "excused": 4
+            },
+            {
+                "competitionId": 38653,
+                "date": "2026-03-22",
+                "competitors": "Couple",
+                "class": "B",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "09:00",
+                "registered": 0,
+                "excused": 5
+            },
+            {
+                "competitionId": 38665,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "B",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "13:15",
+                "registered": 7,
+                "excused": 7
+            },
+            {
+                "competitionId": 39216,
+                "date": "2026-03-22",
+                "competitors": "SoloF",
+                "class": "C",
+                "discipline": "Latin",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "19:45",
+                "registered": 4,
+                "excused": 4
+            },
+            {
+                "competitionId": 38663,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "B",
+                "discipline": "Latin",
+                "age": "Adult",
+                "grade": "Ranking",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "14:15",
+                "registered": 6,
+                "excused": 3
+            },
+            {
+                "competitionId": 37708,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "14:53",
+                "registered": 20,
+                "excused": 8
+            },
+            {
+                "competitionId": 37735,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "14:50",
+                "registered": 21,
+                "excused": 8
+            },
+            {
+                "competitionId": 37736,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "14:51",
+                "registered": 20,
+                "excused": 8
+            },
+            {
+                "competitionId": 37737,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "C",
+                "discipline": "SingleDance",
+                "age": "Juvenile II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "14:52",
+                "registered": 19,
+                "excused": 9
+            },
+            {
+                "competitionId": 37698,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "class": "E",
+                "toClass": "B",
+                "discipline": "Latin",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "18:40",
+                "registered": 4,
+                "excused": 3
+            },
+            {
+                "competitionId": 37725,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:22",
+                "registered": 36,
+                "excused": 8
+            },
+            {
+                "competitionId": 37726,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:21",
+                "registered": 36,
+                "excused": 8
+            },
+            {
+                "competitionId": 37727,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:25",
+                "registered": 35,
+                "excused": 9
+            },
+            {
+                "competitionId": 37728,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:23",
+                "registered": 36,
+                "excused": 9
+            },
+            {
+                "competitionId": 37734,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Paso Doble"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "12:24",
+                "registered": 31,
+                "excused": 6
+            },
+            {
+                "competitionId": 37697,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "class": "E",
+                "toClass": "B",
+                "discipline": "Latin",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "18:50",
+                "registered": 5,
+                "excused": 3
+            },
+            {
+                "competitionId": 37729,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "15:49",
+                "registered": 22,
+                "excused": 8
+            },
+            {
+                "competitionId": 37730,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "15:45",
+                "registered": 22,
+                "excused": 9
+            },
+            {
+                "competitionId": 37731,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "15:46",
+                "registered": 22,
+                "excused": 9
+            },
+            {
+                "competitionId": 37732,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "15:47",
+                "registered": 22,
+                "excused": 9
+            },
+            {
+                "competitionId": 37733,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Junior II",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Paso Doble"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "15:48",
+                "registered": 19,
+                "excused": 6
+            },
+            {
+                "competitionId": 37715,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Youth",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:15",
+                "registered": 12,
+                "excused": 5
+            },
+            {
+                "competitionId": 37716,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Youth",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Paso Doble"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:18",
+                "registered": 11,
+                "excused": 6
+            },
+            {
+                "competitionId": 37717,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Youth",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:17",
+                "registered": 11,
+                "excused": 7
+            },
+            {
+                "competitionId": 37718,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Youth",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:16",
+                "registered": 11,
+                "excused": 6
+            },
+            {
+                "competitionId": 37724,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "A",
+                "discipline": "SingleDance",
+                "age": "Youth",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "17:19",
+                "registered": 12,
+                "excused": 6
+            },
+            {
+                "competitionId": 37719,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:31",
+                "registered": 6,
+                "excused": 3
+            },
+            {
+                "competitionId": 37720,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:32",
+                "registered": 6,
+                "excused": 3
+            },
+            {
+                "competitionId": 37721,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:33",
+                "registered": 6,
+                "excused": 3
+            },
+            {
+                "competitionId": 37722,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Paso Doble"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:34",
+                "registered": 6,
+                "excused": 3
+            },
+            {
+                "competitionId": 37723,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "class": "E",
+                "toClass": "S",
+                "discipline": "SingleDance",
+                "age": "Adult",
+                "grade": "Cup",
+                "series": "DanceSport",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 150,
+                "checkInEnd": "16:35",
+                "registered": 6,
+                "excused": 3
+            },
+            {
+                "competitionId": 39224,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "discipline": "Latin",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "13:45",
+                "registered": 2,
+                "excused": 0
+            },
+            {
+                "competitionId": 38659,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "13:48",
+                "registered": 2,
+                "excused": 0
+            },
+            {
+                "competitionId": 38660,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "13:46",
+                "registered": 2,
+                "excused": 0
+            },
+            {
+                "competitionId": 38661,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "13:47",
+                "registered": 2,
+                "excused": 0
+            },
+            {
+                "competitionId": 38672,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "Latin",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha",
+                    "Jive",
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "18:00",
+                "registered": 11,
+                "excused": 7
+            },
+            {
+                "competitionId": 37631,
+                "date": "2026-03-22",
+                "competitors": "Group",
+                "discipline": "Latin",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 100,
+                "checkInEnd": "16:00",
+                "registered": 2,
+                "excused": 0
+            },
+            {
+                "competitionId": 39217,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "17:56",
+                "registered": 8,
+                "excused": 4
+            },
+            {
+                "competitionId": 39218,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "17:55",
+                "registered": 8,
+                "excused": 4
+            },
+            {
+                "competitionId": 39195,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Polka"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:13",
+                "registered": 2,
+                "excused": 1
+            },
+            {
+                "competitionId": 39197,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:12",
+                "registered": 2,
+                "excused": 2
+            },
+            {
+                "competitionId": 39199,
+                "date": "2026-03-22",
+                "competitors": "DuoF",
+                "discipline": "SingleDance",
+                "age": "Juvenile",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:11",
+                "registered": 2,
+                "excused": 2
+            },
+            {
+                "competitionId": 39381,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:05",
+                "registered": 5,
+                "excused": 1
+            },
+            {
+                "competitionId": 39382,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:06",
+                "registered": 5,
+                "excused": 1
+            },
+            {
+                "competitionId": 39383,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior I",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:07",
+                "registered": 5,
+                "excused": 1
+            },
+            {
+                "competitionId": 39380,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Rumba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:03",
+                "registered": 4,
+                "excused": 1
+            },
+            {
+                "competitionId": 39384,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:01",
+                "registered": 4,
+                "excused": 2
+            },
+            {
+                "competitionId": 39385,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Chachacha"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:02",
+                "registered": 4,
+                "excused": 2
+            },
+            {
+                "competitionId": 39386,
+                "date": "2026-03-22",
+                "competitors": "SoloDancer",
+                "discipline": "SingleDance",
+                "age": "Junior",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin"
+                ],
+                "registrationFee": 80,
+                "checkInEnd": "18:04",
+                "registered": 4,
+                "excused": 2
+            },
+            {
+                "competitionId": 37694,
+                "date": "2026-03-22",
+                "competitors": "Group",
+                "discipline": "Latin",
+                "age": "Youth",
+                "grade": "Cup",
+                "series": "DanceForAll",
+                "chairPersonId": 10660409,
+                "dances": [
+                    "Samba",
+                    "Chachacha",
+                    "Rumba",
+                    "Paso Doble",
+                    "Jive"
+                ],
+                "danceDisciplines": [
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin",
+                    "Latin"
+                ],
+                "registrationFee": 200,
+                "checkInEnd": "17:00",
+                "registered": 1,
+                "excused": 1
+            }
+        ]
     }
   ]
