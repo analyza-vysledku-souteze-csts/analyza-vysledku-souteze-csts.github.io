@@ -22,7 +22,7 @@ Z této stránky se provádějí následující volání na web [csts.cz](https:
 
 **Doplňkové:** `https://www.csts.cz/api/1/competition_events/${eventId}` – pouze pro zobrazení názvu soutěže a základní klasifikace, které bohužel v hlavním dotazu chybí. Toto volání nijak neovlivňuje hlavní funkčnost analýzy; pokud se nenačte, jedinou komplikací bude, že se nezobrazí název soutěže.
 
-**Doplňkové:** `https://www.csts.cz/api/evidence/clenove/detail-clena/osobni-udaje/${memberId}` – pouze pro zobrazení názvu klubu rozhodčího.
+**Doplňkové:** `https://www.csts.cz/api/members/${memberId}` – pouze pro zobrazení názvu klubu rozhodčího.
 
 ---
 
